@@ -1,11 +1,21 @@
-# Interested in
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=math-ac&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-ac&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a Computer Engineering student at CEFET/RJ. Here you'll mostly find college related stuff and some side projects.
 
-![](https://komarev.com/ghpvc/?username=math-ac)
+### Tech
+
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+![OpenSUSE](https://img.shields.io/badge/opensuse-%2373BA25.svg?&style=for-the-badge&logo=opensuse&logoColor=white)
+![KDE](https://img.shields.io/badge/kde-%231D99F3.svg?&style=for-the-badge&logo=kde&logoColor=white)
+
+### Interests
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
+
+<img align="left" width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=math-ac&theme=github_dark" />
+<img align="left" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-ac&theme=github_dark" />
