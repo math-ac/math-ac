@@ -11,11 +11,11 @@ I'm a Computer Engineering student at CEFET/RJ. Here you'll mostly find college 
 ![GNU/Linux](https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![OpenSUSE](https://img.shields.io/badge/opensuse-%2373BA25.svg?&style=for-the-badge&logo=opensuse&logoColor=white)
 ![KDE](https://img.shields.io/badge/kde-%231D99F3.svg?&style=for-the-badge&logo=kde&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
 
 ### Interests
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
 
 <img align="left" width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=math-ac&theme=github_dark" />
 <img align="left" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=math-ac&theme=github_dark" />
