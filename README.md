@@ -1,7 +1,6 @@
 # About Me
 
 I'm a Computer Engineering student at CEFET/RJ. Here you'll mostly find college related stuff and some side projects.
-![](https://komarev.com/ghpvc/?math-ac)
 
 ### Tech
 
